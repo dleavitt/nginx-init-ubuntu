@@ -1,3 +1,5 @@
+## Updated paths for nginx installed by Phusion Passenger ##
+
 # nginx-init-ubuntu #
 
 Tried and true Nginx init script.
